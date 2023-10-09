@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "8aaee8f1a5599440",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c9db1c839e562a8",
+        "type": "tabs",
+        "dimension": 79.83870967741936,
+        "children": [
+          {
+            "id": "fa6ee2a5df5dc898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell/Shell——系统管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ba646a2d2c45ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell/Shell——管理重任.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2250882c8824aa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell/Shell——技巧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "284054c39528d3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell/Shell ——跟踪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a9a7f1f212c2067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell/Bash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "2d2cd8e073af3ee7",
+        "type": "tabs",
+        "dimension": 20.161290322580648,
+        "children": [
+          {
+            "id": "114e41283c0fd4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shell/Bash.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "318fcf4cd5135833",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f3cfb39b2af630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e938ff8078e11bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "849a93533bbe19ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0022b5cbc9ef8fbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e15ee7f5b18c7cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe6b3625356be96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4827f982345b7f75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shell/Bash.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb1b4e35d9a2dafd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shell/Bash.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bbc9efaa8c1b71a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25b78b9545584086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shell/Bash.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1a9a7f1f212c2067",
+  "lastOpenFiles": [
+    "Shell/Shell ——跟踪.md",
+    "Shell/Bash.md",
+    "Shell/Shell——基础.md",
+    "Shell",
+    "Shell/Shell——网络.md",
+    "Shell/Shell——管理重任.md",
+    "Shell/Shell——变量.md",
+    "Shell/Shell——技巧.md",
+    "Shell/Shell——系统管理.md",
+    "Git——基础.md",
+    "Git——高级.md",
+    "仓库管理.md"
+  ]
+}
