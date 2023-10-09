@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell/Bash.md",
+                "file": "Git/Git——高级.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell/Bash.md"
+                "file": "Git/Git——高级.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell/Bash.md",
+                "file": "Git/Git——高级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell/Bash.md",
+                "file": "Git/Git——高级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell/Bash.md"
+                "file": "Git/Git——高级.md"
               }
             }
           }
@@ -215,8 +215,11 @@
   },
   "active": "1a9a7f1f212c2067",
   "lastOpenFiles": [
-    "Shell/Shell ——跟踪.md",
+    "仓库管理.md",
+    "Git/Git——高级.md",
     "Shell/Bash.md",
+    "Git",
+    "Shell/Shell ——跟踪.md",
     "Shell/Shell——基础.md",
     "Shell",
     "Shell/Shell——网络.md",
@@ -224,8 +227,6 @@
     "Shell/Shell——变量.md",
     "Shell/Shell——技巧.md",
     "Shell/Shell——系统管理.md",
-    "Git——基础.md",
-    "Git——高级.md",
-    "仓库管理.md"
+    "Git/Git——基础.md"
   ]
 }
